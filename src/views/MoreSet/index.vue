@@ -11,7 +11,7 @@
       />
     </transition>
     <el-row :gutter="40">
-      <el-col :span="12" class="left">
+      <!-- <el-col :span="12" class="left">
         <div class="logo text-hidden">
           <span class="bg">{{ siteUrl[0] }}</span>
           <span class="sm">.{{ siteUrl[1] }}</span>
@@ -39,7 +39,7 @@
             </div>
           </div>
         </el-card>
-      </el-col>
+      </el-col> -->
       <el-col :span="12" class="right">
         <div class="title">
           <setting-two theme="filled" size="28" fill="#ffffff60" />
